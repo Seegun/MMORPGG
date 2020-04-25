@@ -1,0 +1,73 @@
+h1 {
+    font-size: 36px;
+    color: lightgrey;
+    font-family: 'Comic Neue', cursive;
+    text-align: center;
+    margin: 0;
+    line-height: 72px;
+}
+
+ul {
+    font-family: 'Comic Neue', cursive;
+    font-size: 14px;
+    font-weight: 700;
+    padding-inline-start: 0;
+    list-style-type: none;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.card {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.card-menu {
+    margin: 0;
+}
+
+.card-img img {
+    width: 100%;
+    vertical-align: middle;
+}
+
+.card-title {
+    text-align: center;
+}
+
+nav {
+    background-color: #e8e8e8;
+    border-bottom: 1px solid #1d262d;
+    margin-bottom: 150px;
+}
+
+header {
+    padding-top: 50px;
+    padding-bottom: 5 0px;
+    background-color:#1d262d;
+}
+
+header img {
+    width: 72px;
+    height: 72px;
+}
+
+.fuck {
+    justify-content: space-around;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #1d262d;
+    margin-top: auto;
+    height: 50px;
+}
+
+.footer-link img {
+    width: 45%;
+}
